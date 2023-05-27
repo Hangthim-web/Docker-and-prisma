@@ -1,0 +1,16 @@
+docker compose up
+
+npm install --save-dev prisma
+npm install  @prisma/client
+
+npx prisma init
+-->provider-->msql
+
+npx prisma migrate dev
+
+dbver
+
+database client extension
+
+password-->password
+Database-->express_starter
